@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KirovTheaters</string>
+    <string name="spassky_name">Theater auf Spasskaya</string>
+    <string name="spassky_address">Kirov, st. Spasskaya, 17</string>
+    <string name="drama_name">Kirov Drama Theater</string>
+    <string name="drama_address">Kirov, st. Moskau, 37</string>
+    <string name="dolls_name">Kirov Puppentheater benannt nach A.N. Afanasyeva</string>
+    <string name="dolls_address">Kirov, st. Spasskaya, 22</string>
+    <string name="poster_button_text">Poster</string>
+    <string name="troupe_button_text">Truppe</string>
+</resources>
